@@ -1,0 +1,24 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node.js (si usás npm/yarn)
+node_modules/
+npm-debug.log
+
+# Python (si usás Python)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Entornos virtuales
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Archivos de configuración local
+.env
+*.env
